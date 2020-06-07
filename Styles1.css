@@ -5,6 +5,7 @@ body
       background-image: url("3.jfif");
       background-repeat: no-repeat;
       background-size: cover;
+      style = width: 100%;
 }  
 back_content
 {
