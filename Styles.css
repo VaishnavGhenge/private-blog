@@ -3,6 +3,7 @@ body {
   background-image: url('1.jfif');
   background-repeat: no-repeat;
   background-size: cover;
+  style = width: 100%;
 }
 #date {
   color: red;
