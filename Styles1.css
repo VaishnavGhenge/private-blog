@@ -1,0 +1,29 @@
+body 
+{ 
+      margin:10px auto;
+      background-color: gray;
+      background-image: url("3.jfif");
+      background-repeat: no-repeat;
+      background-size: cover;
+}  
+back_content
+{
+      color: #e6e6e6;
+      text-align: center;
+}
+a:link, a:visited 
+{
+  background-color: #3b4422;
+  color: #e6e6e6;
+  padding: 15px 25px;
+  font-family: Verdana,sans-serif;
+  font-size: 15px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active 
+{
+  background-color: #4a552b;
+}

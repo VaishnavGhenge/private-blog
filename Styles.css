@@ -1,0 +1,43 @@
+body {
+  background-color: powderblue;
+  background-image: url('1.jfif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#date {
+  color: red;
+  font-family: courier;
+  text-align: right;
+  /*border: 5px black;*/
+  padding: 10px;
+}
+#myDIV {
+  width: 1520px;
+  height: 30px;
+  background: red;
+  color: white; 
+  font-family: verdana;
+  font-size: 150%;
+  text-align: center;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: red;}
+  to {background-color: blue;}
+}
+h1 {
+  color: white; 
+  font-family: verdana;
+  font-size: 150%;
+  text-align: center;
+}
+pre  {
+  color: white;
+  font-family: courier;
+  font-size: 100%;
+  /*background-image: url('photo-1505682634904-d7c8d95cdc50.jfif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;*/
+}
